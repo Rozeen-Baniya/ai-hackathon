@@ -1,3 +1,4 @@
+// Update 1
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
