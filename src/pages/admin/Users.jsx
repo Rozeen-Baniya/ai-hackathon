@@ -1,3 +1,4 @@
+// Update 1
 import React, { useState, useEffect } from 'react';
 import { Search, ChevronLeft, ChevronRight, User as UserIcon, Mail, Calendar, Hash, ShoppingBag, ShieldAlert, Ban, LogOut, CheckCircle2, AlertCircle, Loader2 } from 'lucide-react';
 import { supabase } from '../../lib/supabase';
