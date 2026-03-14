@@ -1,3 +1,4 @@
+// Update 2
 // Update 1
 import React, { useState, useRef, useEffect } from 'react';
 import { Camera, Shirt, Upload, Move3d, Layers, AlertCircle, Heart, ShoppingBag, Download, RotateCcw } from 'lucide-react';
