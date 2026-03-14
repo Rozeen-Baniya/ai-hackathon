@@ -1,3 +1,4 @@
+// Update 2
 // Update 1
 import React, { useMemo } from 'react';
 import { ArrowLeft, ShieldCheck, Wallet } from 'lucide-react';
