@@ -1,3 +1,4 @@
+// Update 2
 // Update 1
 import React, { useEffect, useState } from 'react';
 import { Search, Bell, Shirt, Watch, Gem } from 'lucide-react';
