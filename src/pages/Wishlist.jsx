@@ -1,3 +1,4 @@
+// Update 1
 import React, { useEffect, useState } from 'react';
 import { ArrowLeft, Heart, ShoppingBag, Trash2 } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
