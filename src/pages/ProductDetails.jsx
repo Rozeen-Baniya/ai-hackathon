@@ -1,3 +1,4 @@
+// Update 1
 import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { ArrowLeft, Star, Share2, Heart, ShoppingBag, Camera } from 'lucide-react';
