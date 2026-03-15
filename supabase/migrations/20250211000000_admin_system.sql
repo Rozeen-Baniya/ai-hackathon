@@ -1,3 +1,4 @@
+-- Update 2
 -- Update 1
 -- Admin System Migration
 -- 1. Create admin_users table
