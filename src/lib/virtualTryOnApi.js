@@ -1,3 +1,4 @@
+// Update 1
 /**
  * AI Virtual Try-On - Google Gemini API (Nano Banana / Imagen)
  * Uses gemini-2.5-flash-image for image editing
