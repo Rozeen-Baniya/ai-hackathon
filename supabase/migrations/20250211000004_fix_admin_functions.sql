@@ -1,3 +1,4 @@
+-- Update 1
 -- Fix Admin Check Logic in User Management Functions
 
 -- 1. Redefine toggle_user_suspension to rely on the admin_users table (via is_admin())
